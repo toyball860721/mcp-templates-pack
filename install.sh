@@ -8,7 +8,7 @@ set -e
 echo "🦞 MCP Templates Pack 安装程序"
 echo "================================"
 
-TEMPLATES=("mcp-n8n" "mcp-obsidian" "mcp-fileops" "mcp-websearch" "mcp-sqlite")
+TEMPLATES=("mcp-n8n" "mcp-obsidian" "mcp-fileops" "mcp-websearch" "mcp-tips")
 
 for template in "${TEMPLATES[@]}"; do
     echo ""
