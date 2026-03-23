@@ -1,0 +1,11 @@
+{
+  "name": "mcp-templates-pack",
+  "version": "1.0.0",
+  "description": "MCP Server Templates Pack - Ready-to-use MCP server templates for Claude Code, Cursor, and other MCP clients",
+  "scripts": {
+    "install:all": "bash install.sh"
+  },
+  "keywords": ["mcp", "claude", "cursor", "templates", "automation"],
+  "author": "Revenue Lobster",
+  "license": "MIT"
+}
