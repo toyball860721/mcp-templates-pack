@@ -68,11 +68,20 @@ cd mcp-n8n && npm install
 
 如果你觉得这个项目有用，欢迎赞助支持！
 
-### 支付宝收款码
-![支付宝收款码](/Users/toyball/Documents/Opwnclaw_File/共享资料文件/收款码/收款码支付宝收款码.JPG)
+### 支付方式
 
-### 微信收款码
-![微信收款码](/Users/toyball/Documents/Opwnclaw_File/共享资料文件/收款码/收款码微信收款码.JPG)
+**方式 1: 爱发电（推荐）**
+- 链接：https://afdian.com/a/toyball/shop
+- 支持支付宝、微信支付
+- 支持一次性购买和月度赞助
+- 自动发货，即时获取下载链接
+
+**方式 2: 邮件联系**
+- 邮箱：shentaobj@qq.com
+- 发送"赞助 MCP 模板"获取收款码
+- 确认后手动发送完整包
+
+> 💡 早鸟价 ¥99（前 50 份），恢复正常价 ¥199
 
 > 💡 赞助任意金额即可获得：
 > - 项目更新通知

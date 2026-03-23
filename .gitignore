@@ -2,3 +2,8 @@ node_modules/
 dist/
 *.log
 .DS_Store
+
+# 收款码图片（隐私）
+assets/*.JPG
+assets/*.jpg
+assets/*.png
