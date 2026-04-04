@@ -1,6 +1,2 @@
-# These are supported funding model platforms
-
-github: toyball860721
-custom: 
-  - https://afdian.com/a/toyball/shop
-  - https://github.com/toyball860721/mcp-templates-pack#-赞助与支持
+github: [toyball]
+custom: ["https://gumroad.com/toyball"]
